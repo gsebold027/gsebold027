@@ -2,7 +2,7 @@
 
 # Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
 
-Meu nome é Gustavo Sebold, sou estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas!
+Meu nome é Gustavo Sebold, estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas!
 
 ## 🔧 Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5f09a2)
@@ -13,7 +13,6 @@ Meu nome é Gustavo Sebold, sou estudante de Análise e Desenvolvimento de Siste
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=blue&color=5f09a2)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5f09a2)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=5f09a2)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=blue&color=5f09a2)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/gsebold027/">
