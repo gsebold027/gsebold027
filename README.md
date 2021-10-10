@@ -1,3 +1,5 @@
+[![Header](https://github.com/gsebold027/gsebold027/blob/main/banner.png "Header")](https://www.linkedin.com/in/gustavo-sebold/)
+
 # Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
 
 Meu nome é Gustavo Sebold, sou estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas!
