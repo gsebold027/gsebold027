@@ -1,6 +1,6 @@
-# Olá! <img src="https://raw.githubusercontent.com/gsebold027/gsebold027/master/wave.gif" width="30px">
+# Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
 
-Meu nome é Gustavo Sebold e eu sou estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas
+Meu nome é Gustavo Sebold, sou estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas!
 
 ## 🔧 Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5f09a2)
@@ -23,21 +23,8 @@ Meu nome é Gustavo Sebold e eu sou estudante de Análise e Desenvolvimento de S
 
 ## 
 
-<div> 
+<div>
+  
   ![Snake animation](https://github.com/gsebold027/gsebold027/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-
-<!--
-**gsebold027/gsebold027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
