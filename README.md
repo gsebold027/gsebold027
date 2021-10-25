@@ -15,11 +15,10 @@ Meu nome é Gustavo Sebold, estudante de Análise e Desenvolvimento de Sistemas.
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=5f09a2)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/gsebold027/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsebold027&title_color=B560F6&text_color=c9cacc&icon_color=B560F6&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/gsebold027/">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsebold027&title_color=B560F6&text_color=c9cacc&icon_color=B560F6&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/gsebold027/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsebold027&show_icons=true&line_height=27&count_private=true&title_color=B560F6&text_color=c9cacc&icon_color=B560F6&bg_color=1d1f21" alt="Gustavo Sebold GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gsebold027&show_icons=true&line_height=27&count_private=true&title_color=B560F6&text_color=c9cacc&icon_color=B560F6&bg_color=1d1f21" alt="Gustavo Sebold GitHub Stats" />
 </a>
 
 ## 
