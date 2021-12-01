@@ -5,14 +5,14 @@
 Meu nome é Gustavo Sebold, estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente busco uma vaga como estágiario!
 
 ## 🔧 Tecnologias e Ferramentas
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5f09a2)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=5f09a2)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=5f09a2)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=green&color=5f09a2)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=blue&color=5f09a2)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=blue&color=5f09a2)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=5f09a2)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=5f09a2)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5f09a2)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=5f09a2)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=5f09a2)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=green&color=5f09a2)
+![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=blue&color=5f09a2)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=blue&color=5f09a2)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=5f09a2)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=blue&color=5f09a2)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/gsebold027/">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsebold027&title_color=B560F6&text_color=c9cacc&icon_color=B560F6&bg_color=1d1f21&langs_count=5" />
