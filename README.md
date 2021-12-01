@@ -2,7 +2,7 @@
 
 # Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
 
-Meu nome é Gustavo Sebold, estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente trabalho na SSW Sistemas!
+Meu nome é Gustavo Sebold, estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro em Curitiba e atualmente busco uma vaga como estágiario!
 
 ## 🔧 Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5f09a2)
