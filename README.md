@@ -1,7 +1,7 @@
 [![GoToLinkedin](https://github.com/gsebold027/gsebold027/blob/main/banner.png "GoToLinkedin")](https://www.linkedin.com/in/gustavo-sebold/)
 
 # Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
-<a href="https://drive.google.com/file/d/1Hdps-Kg_4SOBqyYTKqbnNROuFSUmqxuW/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/-Currículo-informational?style=for-the-badge&logo=ghost&logoColor=white&color=5f09a2"> </a>
+<a href="https://drive.google.com/file/d/1lqUH61ioWXuLKL-O0xTuZVuH2FHXzEmk/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/-Currículo-informational?style=for-the-badge&logo=ghost&logoColor=white&color=5f09a2"> </a>
 <a href="https://www.linkedin.com/in/gustavo-sebold/" target="_blank"> <img src="https://img.shields.io/badge/-Gustavo_Sebold-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=5f09a2"> </a>
 <a href="mailto:gustavosebold027@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-gustavosebold027@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=red&color=5f09a2"> </a>
 ```JSON
