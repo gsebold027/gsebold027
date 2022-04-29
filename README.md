@@ -1,15 +1,11 @@
-# Olá! <img src="https://github.com/gsebold027/gsebold027/blob/main/wave.gif" width="30px">
-<a href="https://drive.google.com/file/d/1lqUH61ioWXuLKL-O0xTuZVuH2FHXzEmk/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/-Currículo-informational?style=for-the-badge&logo=ghost&logoColor=white&color=5f09a2"> </a>
-<a href="mailto:gustavosebold027@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-gustavosebold027@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=red&color=5f09a2"> </a>
-
-Full-Stack Developer
---------------------
+# Gustavo Sebold, Full-Stack Developer 👾
 
 * 🌍  Morando em Curitiba, Brazil
 * 📖  Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - UFPR
+* 💬  Inglês e Português
 * 🚀  Trabalhando na [D18](http://d18.com.br)
 * 🧠  Aprendendo Ruby on Rails
-* ⚡  Maior sonho conhecer o mundo
+* ⚡  Sonho em conhecer o mundo
 
 ## 🔧 Tecnologias e Ferramentas
 <p align="left">
@@ -29,7 +25,7 @@ Full-Stack Developer
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-## Social
+## 🌐 Social
 <p align="left"> <a href="https://discord.com/users/Gustavo Sebold#2799" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gsebold027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gus_sebold" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustavo-sebold" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ## &#x1f4c8; GitHub Stats
