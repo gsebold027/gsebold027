@@ -35,7 +35,5 @@ Full-Stack Developer
 ## &#x1f4c8; GitHub Stats
 <a href="http://www.github.com/gsebold027"><img src="https://activity-graph.herokuapp.com/graph?username=gsebold027&bg_color=171717&color=ffffff&line=a855f7&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## 🔝 Principais Projetos
-
-<div width="100%" align="center"><a href="https://github.com/gsebold027/data-structure-exercices" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gsebold027&repo=data-structure-exercices&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+##
 
