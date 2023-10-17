@@ -1,10 +1,9 @@
 # Gustavo Sebold, Full-Stack Developer 👾
 
 * 🌍  Morando em Curitiba, Brazil
-* 📖  Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - UFPR
+* 🎓  Formado Tecnologia em Análise e Desenvolvimento de Sistemas - UFPR
 * 💬  Inglês e Português
-* 🚀  Trabalhando na [D18](http://d18.com.br)
-* 🧠  Aprendendo Ruby on Rails
+* 🚀  Dev Fullstack na [D18](http://d18.com.br)
 * ⚡  Sonho em conhecer o mundo
 
 ## 🔧 Tecnologias e Ferramentas
